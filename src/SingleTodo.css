@@ -1,0 +1,15 @@
+.singleTodo{
+    display: flex;
+    border: 1px solid black;
+    padding: 10px;
+    min-width: 100px;
+    margin: 20px;
+}
+
+.finished{
+    text-decoration: line-through;
+}
+
+.notComplete{
+    text-decoration: none;
+}
